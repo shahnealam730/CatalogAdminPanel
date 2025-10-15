@@ -10,4 +10,4 @@ npm run seed   # to seed sample products
 npm run dev
 ```
 
-API base: http://localhost:5000/api
+API base: http://localhost:5000/api/products
